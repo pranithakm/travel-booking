@@ -1,0 +1,159 @@
+/* Container for the entire Home page */
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Fontdiner+Swanky&family=Jura:wght@700&family=Macondo&family=Rubik+Dirt&display=swap');
+.home {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  overflow-x: hidden;
+}
+
+/* Hero Section */
+.hero-section {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Video fills entire hero section */
+.hero-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+/* Overlay for text on top of video */
+.overlay {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #000;
+  text-align: center;
+  z-index: 2;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  width: 80vw;
+}
+
+.overlay h1 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  color: #e8ffd2;
+  font-family: "Macondo", cursive;
+  font-optical-sizing: auto;
+}
+
+.overlay .hh {
+  font-size: 3.8rem;
+  font-weight: bold;
+  color: #000000;
+  font-family: "Macondo", cursive;
+  font-optical-sizing: auto;
+  margin-left: 0.3rem;
+}
+
+.user-name {
+  font-size: 3rem;
+  color: #496a27;
+  margin-bottom: 0.8rem;
+  font-family: "Rubik Dirt", system-ui;
+  font-optical-sizing: auto;
+}
+
+/* Features Section */
+.features-section {
+  max-width: 1200px;
+  margin: 3rem auto 5rem;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.features-section h2 {
+  font-size: 2.4rem;
+  color: #55883B;
+  margin-bottom: 2.5rem;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
+}
+
+/* Container to hold all feature cards */
+.features-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
+}
+
+/* Each Feature Card */
+.feature-card {
+  background: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 2.5rem 1.8rem;
+  flex: 1 1 280px;
+  max-width: 320px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+}
+
+.feature-card:hover,
+.feature-card:focus {
+  outline: none;
+  transform: translateY(-12px);
+  box-shadow: 0 18px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Icon inside the card */
+.feature-icon {
+  font-size: 3.5rem;
+  color: #9A6735;
+  margin-bottom: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.feature-card:hover .feature-icon,
+.feature-card:focus .feature-icon {
+  color: #55883B;
+}
+
+/* Title of each feature */
+.feature-card h3 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Paragraph inside feature card */
+.feature-card p {
+  color: #666;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.explore-btn {
+  margin-top: 2rem;
+  padding: 0.8rem 2.2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #9a683599;  /* warm brown */
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 6px 12px rgba(154, 103, 53, 0.5);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.explore-btn:hover,
+.explore-btn:focus {
+  background-color: #55883b87; /* green accent */
+  transform: scale(1.05);
+  outline: none;
+}

@@ -1,0 +1,498 @@
+[{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5666"
+  },
+  "title": "Manali",
+  "price_per_person_rupees": 12000,
+  "days": 5,
+  "description": "Solang Valley, Rohtang Pass, Hidimba Devi Temple, and Manu Temple are prominent attractions in and around Manali, Himachal Pradesh. Solang Valley is a stunning destination known for adventure sports like paragliding, skiing, and snowboarding. Rohtang Pass, located at an altitude of over 13,000 feet, offers breathtaking views of the Himalayas and is a gateway to Lahaul-Spiti. Hidimba Devi Temple, nestled among cedar forests, is a unique wooden temple dedicated to Hidimba, a character from the Mahabharata. Manu Temple, dedicated to sage Manu, the creator of mankind, is a peaceful spiritual site located in the old part of Manali.",
+  "image": "https://images.unsplash.com/photo-1712388430474-ace0c16051e2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuYWxpfGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and local sightseeing",
+    "Day 2: Solang Valley and Rohtang Pass",
+    "Day 3: Visit Hidimba Devi Temple and Manu Temple",
+    "Day 4: Adventure activities like river rafting",
+    "Day 5: Shopping and departure"
+  ],
+  "places_covered": [
+    "Solang Valley",
+    "Rohtang Pass",
+    "Hidimba Devi Temple",
+    "Manu Temple"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5667"
+  },
+  "title": "Goa",
+  "price_per_person_rupees": 10000,
+  "days": 4,
+  "description": "Calangute Beach, Baga Beach, Basilica of Bom Jesus, and Dudhsagar Falls are some of the most popular tourist attractions in Goa. Calangute Beach, often called the “Queen of Beaches,” is known for its lively atmosphere, water sports, and vibrant nightlife. Nearby, Baga Beach is famous for its beach parties, shacks, and adventure activities like jet skiing and parasailing. Basilica of Bom Jesus, a UNESCO World Heritage Site, houses the mortal remains of St. Francis Xavier and showcases stunning baroque architecture. Dudhsagar Falls, located on the Goa-Karnataka border, is a majestic four-tiered waterfall surrounded by lush greenery and trekking trails.",
+  "image": "https://images.pexels.com/photos/88212/pexels-photo-88212.jpeg?cs=srgb&dl=pexels-umaraffan499-88212.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and North Goa beaches",
+    "Day 2: South Goa churches and beaches",
+    "Day 3: Water sports and spice plantation",
+    "Day 4: Departure"
+  ],
+  "places_covered": [
+    "Calangute Beach",
+    "Baga Beach",
+    "Basilica of Bom Jesus",
+    "Dudhsagar Falls"
+  ],
+  "language_used": "Konkani, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5668"
+  },
+  "title": "Jaipur",
+  "price_per_person_rupees": 9200,
+  "days": 4,
+  "description": "\tCity Palace – A magnificent royal residence combining Rajasthani and Mughal architecture, the City Palace is a sprawling complex with courtyards, gardens, and museums showcasing Jaipur’s royal heritage.\n\tAmber Fort – Located on a hilltop, Amber Fort is a stunning blend of Hindu and Mughal styles, known for its ornate palaces, mirror work, and panoramic views of the surrounding Aravalli hills.\n\tHawa Mahal – Also called the “Palace of Winds,” this pink sandstone facade has hundreds of small windows designed for royal ladies to observe street festivities without being seen.\n\tJantar Mantar – An astronomical observatory built by Maharaja Jai Singh II, featuring large instruments to measure time, predict eclipses, and track celestial bodies.\n\tJal Mahal – The “Water Palace” is a beautiful structure sitting in the middle of Man Sagar Lake, admired for its unique location and picturesque surroundings.",
+  "image": "https://plus.unsplash.com/premium_photo-1661963054563-ce928e477ff3?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amFpcHVyfGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival, City Palace, and Jantar Mantar",
+    "Day 2: Amber Fort and Jal Mahal",
+    "Day 3: Hawa Mahal and shopping in local markets",
+    "Day 4: Nahargarh Fort and departure"
+  ],
+  "places_covered": [
+    "City Palace",
+    "Amber Fort",
+    "Hawa Mahal",
+    "Jantar Mantar",
+    "Jal Mahal"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5669"
+  },
+  "title": "Leh-Ladakh",
+  "price_per_person_rupees": 16500,
+  "days": 6,
+  "description": "A cold desert known for its dramatic mountain landscapes, Buddhist monasteries, and thrilling adventure routes.",
+  "image": "https://plus.unsplash.com/premium_photo-1661962344178-19930ba15492?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGVoJTIwbGFkYWtofGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and acclimatization in Leh",
+    "Day 2: Local sightseeing – Shanti Stupa, Leh Palace",
+    "Day 3: Nubra Valley via Khardung La Pass",
+    "Day 4: Pangong Lake excursion",
+    "Day 5: Visit monasteries – Hemis and Thiksey",
+    "Day 6: Departure"
+  ],
+  "places_covered": [
+    "Leh Palace",
+    "Shanti Stupa",
+    "Nubra Valley",
+    "Pangong Lake",
+    "Hemis Monastery"
+  ],
+  "language_used": "Ladakhi, Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566a"
+  },
+  "title": "Kerala",
+  "price_per_person_rupees": 13000,
+  "days": 5,
+  "description": "Leh Palace is a majestic 17th-century nine-story royal residence overlooking Leh town, showcasing Tibetan architecture and offering panoramic views of the surrounding mountains.\n\nShanti Stupa is a white-domed Buddhist monument built for world peace, located on a hilltop near Leh, famous for stunning sunrise and sunset views.\n\nNubra Valley is a scenic high-altitude valley known for its sand dunes, double-humped Bactrian camels, and vibrant Buddhist culture.\n\nPangong Lake is a breathtaking saltwater lake famous for its changing colors and serene beauty, stretching between India and China.",
+  "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2VyYWxhfGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival in Kochi, local sightseeing",
+    "Day 2: Alleppey backwaters and houseboat stay",
+    "Day 3: Munnar tea gardens",
+    "Day 4: Thekkady and Periyar Wildlife Sanctuary",
+    "Day 5: Departure"
+  ],
+  "places_covered": [
+    "Kochi",
+    "Alleppey",
+    "Munnar",
+    "Thekkady"
+  ],
+  "language_used": "Malayalam, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566b"
+  },
+  "title": "Agra",
+  "price_per_person_rupees": 7000,
+  "days": 2,
+  "description": "Taj Mahal, Agra Fort, and Fatehpur Sikri are iconic monuments that reflect the grandeur of the Mughal era in Agra. The Taj Mahal, a UNESCO World Heritage Site, is a white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal, symbolizing eternal love. The Agra Fort, another UNESCO site, is a massive red sandstone fortress that served as the main residence of the Mughal emperors. Fatehpur Sikri, a beautifully preserved ghost city, was built by Akbar as his capital and abandoned due to water scarcity. Together, they showcase Agra’s architectural brilliance and historical importance.",
+  "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWdyYXxlbnwwfHwwfHx8MA%3D%3D",
+  "plan_per_day": [
+    "Day 1: Taj Mahal and Agra Fort",
+    "Day 2: Fatehpur Sikri and departure"
+  ],
+  "places_covered": [
+    "Taj Mahal",
+    "Agra Fort",
+    "Fatehpur Sikri"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566c"
+  },
+  "title": "Rishikesh",
+  "price_per_person_rupees": 8500,
+  "days": 3,
+  "description": "Triveni Ghat is a sacred confluence of three holy rivers—Ganga, Yamuna, and Saraswati—where devotees gather for ritual baths and evening Ganga Aarti ceremonies, creating a deeply spiritual atmosphere.\n\nLaxman Jhula is an iconic iron suspension bridge across the Ganges, believed to be the path crossed by Lord Rama’s brother, Laxman. It offers stunning views of the river and surrounding hills.\n\nRam Jhula is another famous suspension bridge near Laxman Jhula, linking the banks of the Ganges and connecting important temples and ashrams, bustling with pilgrims and tourists.\n\nNeelkanth Mahadev Temple, nestled in the hills near Rishikesh, is dedicated to Lord Shiva and attracts devotees especially during Maha Shivratri for its serene setting and religious significance.",
+  "image": "https://images.unsplash.com/photo-1720819029162-8500607ae232?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmlzaGlrZXNofGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and Ganga Aarti",
+    "Day 2: Yoga sessions and local temples",
+    "Day 3: River rafting and departure"
+  ],
+  "places_covered": [
+    "Triveni Ghat",
+    "Laxman Jhula",
+    "Ram Jhula",
+    "Neelkanth Mahadev Temple"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566d"
+  },
+  "title": "Varanasi",
+  "price_per_person_rupees": 7500,
+  "days": 3,
+  "description": "Dashashwamedh Ghat is one of the oldest and most vibrant ghats on the banks of the Ganges in Varanasi. It is famous for its spectacular evening Ganga Aarti, where priests perform elaborate rituals with fire, lamps, and chants, attracting thousands of devotees and tourists.\n\nSarnath is a sacred Buddhist pilgrimage site located just outside Varanasi. It is where Lord Buddha gave his first sermon after attaining enlightenment, making it a place of great historical and spiritual significance with ancient stupas, monasteries, and museums.\n\nAssi Ghat is a peaceful and popular ghat at the southern end of Varanasi. It is known for its lively morning yoga sessions, vibrant cultural activities, and as a favored spot for locals and visitors to relax by the river.",
+  "image": "https://images.pexels.com/photos/16542959/pexels-photo-16542959.jpeg?cs=srgb&dl=pexels-narin-chauhan-295714705-16542959.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and evening Ganga Aarti",
+    "Day 2: Boat ride on Ganges and visit Sarnath",
+    "Day 3: Local market and departure"
+  ],
+  "places_covered": [
+    "Dashashwamedh Ghat",
+    "Sarnath",
+    "Assi Ghat"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566e"
+  },
+  "title": "Udaipur",
+  "price_per_person_rupees": 9500,
+  "days": 3,
+  "description": "City Palace is a grand palace complex overlooking Lake Pichola, showcasing exquisite Rajasthani and Mughal architecture with sprawling courtyards, ornate balconies, and museums displaying royal artifacts.\n\nLake Pichola is a picturesque artificial freshwater lake famous for its scenic boat rides, offering stunning views of the city’s palaces, temples, and ghats.\n\nJag Mandir is a charming island palace on Lake Pichola, known for its elegant gardens, marble structures, and historical significance as a royal retreat.\n\nSaheliyon Ki Bari is a delightful garden adorned with fountains, lotus pools, and marble pavilions, created for the royal ladies as a place of leisure and beauty.",
+  "image": "https://plus.unsplash.com/premium_photo-1661964079694-ccfaf7dc8028?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2l0eSUyMHBhbGFjZSUyMHVkYWlwdXIlMjBpbmRpYXxlbnwwfHwwfHx8MA%3D%3D",
+  "plan_per_day": [
+    "Day 1: City Palace and Lake Pichola",
+    "Day 2: Jag Mandir and Saheliyon Ki Bari",
+    "Day 3: Local markets and departure"
+  ],
+  "places_covered": [
+    "City Palace",
+    "Lake Pichola",
+    "Jag Mandir",
+    "Saheliyon Ki Bari"
+  ],
+  "language_used": "Hindi, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c566f"
+  },
+  "title": "Mysore",
+  "price_per_person_rupees": 8000,
+  "days": 3,
+  "description": "Mysore Palace is a magnificent royal residence and one of India’s grandest palaces, known for its stunning Indo-Saracenic architecture, intricate carvings, vibrant murals, and dazzling illumination during festivals.\n\nChamundi Hills rise majestically above Mysore and are home to the revered Chamundeshwari Temple, dedicated to the goddess Durga. The hills offer panoramic views of the city and attract pilgrims and tourists alike.\n\nSt. Philomena’s Cathedral is a beautiful Gothic-style church built with impressive stained glass windows and towering spires, making it one of the largest churches in India and a serene place of worship.",
+  "image": "https://images.unsplash.com/photo-1600112356915-089abb8fc71a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXlzb3JlfGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Mysore Palace and local sightseeing",
+    "Day 2: Chamundi Hills and St. Philomena's Cathedral",
+    "Day 3: Local markets and departure"
+  ],
+  "places_covered": [
+    "Mysore Palace",
+    "Chamundi Hills",
+    "St. Philomena's Cathedral"
+  ],
+  "language_used": "Kannada, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5670"
+  },
+  "title": "Paris",
+  "price_per_person_rupees": 45000,
+  "days": 5,
+  "description": "\nEiffel Tower is the symbol of Paris and one of the most recognizable structures in the world. This iron lattice tower offers breathtaking panoramic views of the city from its multiple observation decks.\n\nLouvre Museum is the world’s largest art museum, home to thousands of masterpieces including the Mona Lisa and the Venus de Milo, showcasing art and artifacts from ancient civilizations to modern times.\n\nNotre-Dame Cathedral is a stunning example of French Gothic architecture, famous for its intricate façade, soaring towers, and beautiful stained glass windows.\n\nMontmartre is a historic hilltop neighborhood known for its artistic heritage, charming streets, the Sacré-Cœur Basilica, and vibrant café culture.",
+  "image": "https://wallpapers.com/images/featured/paris-zy4x2ow5p7j5qi4a.jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Eiffel Tower visit",
+    "Day 2: Louvre Museum and Notre-Dame",
+    "Day 3: Montmartre and Sacré-Cœur",
+    "Day 4: Palace of Versailles day trip",
+    "Day 5: Shopping and departure"
+  ],
+  "places_covered": [
+    "Eiffel Tower",
+    "Louvre Museum",
+    "Notre-Dame Cathedral",
+    "Montmartre",
+    "Palace of Versailles"
+  ],
+  "language_used": "French, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5671"
+  },
+  "title": "Rome",
+  "price_per_person_rupees": 42000,
+  "days": 5,
+  "description": "Colosseum is an iconic ancient amphitheater known for gladiatorial contests and grand public spectacles. It stands as a symbol of Rome’s imperial power and architectural ingenuity.\n\nRoman Forum was the political, religious, and commercial heart of ancient Rome, filled with ruins of temples, basilicas, and public spaces that reveal the city’s glorious past.\n\nVatican Museums house an extraordinary collection of art and historical artifacts, including the Sistine Chapel ceiling painted by Michelangelo, attracting millions of visitors annually.\n\nSt. Peter’s Basilica is a masterpiece of Renaissance architecture and the largest church in the world, serving as the spiritual center of the Catholic Church and a pilgrimage site.\n\nTrevi Fountain is a magnificent Baroque fountain where visitors toss coins over their shoulders to ensure a return to Rome, admired for its dramatic sculptures and flowing waters.",
+  "image": "https://plus.unsplash.com/premium_photo-1661963265512-73e8d1053b9a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9tZSUyMGl0YWx5fGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and Colosseum",
+    "Day 2: Roman Forum and Palatine Hill",
+    "Day 3: Vatican Museums and St. Peter's Basilica",
+    "Day 4: Trevi Fountain and Spanish Steps",
+    "Day 5: Departure"
+  ],
+  "places_covered": [
+    "Colosseum",
+    "Roman Forum",
+    "Vatican Museums",
+    "St. Peter's Basilica",
+    "Trevi Fountain"
+  ],
+  "language_used": "Italian, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5672"
+  },
+  "title": "New York",
+  "price_per_person_rupees": 55000,
+  "days": 6,
+  "description": "Times Square is the vibrant heart of Manhattan, famous for its dazzling digital billboards, bustling crowds, and being the epicenter of New Year’s Eve celebrations.\n\nStatue of Liberty stands as a powerful symbol of freedom and democracy, welcoming visitors and immigrants arriving by sea since 1886.\n\nCentral Park is a sprawling urban oasis offering lush greenery, walking trails, lakes, and recreational spaces amid the city’s skyscrapers.\n\nBroadway is the world-renowned theater district, home to spectacular plays and musicals that draw audiences from across the globe.\n\nBrooklyn Bridge is a historic suspension bridge connecting Manhattan and Brooklyn, admired for its stunning architecture and scenic views of the city skyline",
+  "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9ya3xlbnwwfHwwfHx8MA%3D%3D",
+  "plan_per_day": [
+    "Day 1: Arrival and Times Square",
+    "Day 2: Statue of Liberty and Ellis Island",
+    "Day 3: Central Park and Museum of Modern Art",
+    "Day 4: Broadway show and 5th Avenue shopping",
+    "Day 5: Brooklyn Bridge and Chinatown",
+    "Day 6: Departure"
+  ],
+  "places_covered": [
+    "Times Square",
+    "Statue of Liberty",
+    "Central Park",
+    "Broadway",
+    "Brooklyn Bridge"
+  ],
+  "language_used": "English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5673"
+  },
+  "title": "Tokyo",
+  "price_per_person_rupees": 48000,
+  "days": 6,
+  "description": "\nShibuya is a bustling district in Tokyo famous for the iconic Shibuya Crossing, vibrant shopping, nightlife, and youth culture, making it one of the city’s liveliest spots.\n\nMeiji Shrine is a serene Shinto shrine dedicated to Emperor Meiji and Empress Shoken, surrounded by a peaceful forested area offering a spiritual retreat in the heart of Tokyo.\n\nTokyo Tower is a striking red-and-white communications and observation tower inspired by the Eiffel Tower, providing panoramic views of Tokyo’s sprawling skyline.\n\nSenso-ji Temple is Tokyo’s oldest Buddhist temple, renowned for its impressive Kaminarimon gate, bustling Nakamise shopping street, and rich cultural heritage.\n\nMount Fuji is Japan’s highest and most famous mountain, revered as a sacred symbol of beauty and endurance, attracting climbers and photographers worldwide.",
+  "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?cs=srgb&dl=pexels-apasaric-2506923.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Shibuya Crossing",
+    "Day 2: Meiji Shrine and Harajuku",
+    "Day 3: Tokyo Tower and Roppongi Hills",
+    "Day 4: Asakusa and Senso-ji Temple",
+    "Day 5: Day trip to Mount Fuji",
+    "Day 6: Shopping and departure"
+  ],
+  "places_covered": [
+    "Shibuya",
+    "Meiji Shrine",
+    "Tokyo Tower",
+    "Senso-ji Temple",
+    "Mount Fuji"
+  ],
+  "language_used": "Japanese, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5674"
+  },
+  "title": "Sydney",
+  "price_per_person_rupees": 47000,
+  "days": 5,
+  "description": "Sydney Opera House is an architectural masterpiece and one of the most recognizable landmarks in the world, known for its sail-like design and vibrant performances in music, theater, and dance.\n\nHarbour Bridge, affectionately called the “Coathanger,” is a steel arch bridge connecting Sydney’s central business district with the North Shore. It offers panoramic views and an adventurous BridgeClimb experience.\n\nBondi Beach is a world-famous beach known for its golden sands, excellent surfing conditions, and laid-back coastal vibe, making it a favorite among locals and tourists alike.\n\nBlue Mountains is a stunning natural wonder near Sydney, featuring dramatic cliffs, eucalyptus forests, waterfalls, and the iconic Three Sisters rock formation, ideal for hiking and scenic lookouts.",
+  "image": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and Circular Quay",
+    "Day 2: Sydney Opera House and Royal Botanic Gardens",
+    "Day 3: Bondi Beach and coastal walk",
+    "Day 4: Blue Mountains day trip",
+    "Day 5: Departure"
+  ],
+  "places_covered": [
+    "Sydney Opera House",
+    "Harbour Bridge",
+    "Bondi Beach",
+    "Blue Mountains"
+  ],
+  "language_used": "English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5675"
+  },
+  "title": "London",
+  "price_per_person_rupees": 46000,
+  "days": 6,
+  "description": "Tower of London is a historic fortress on the River Thames, known for its rich history as a royal palace, prison, and home to the Crown Jewels.\n\nBuckingham Palace is the official residence of the British monarch, famous for its grand architecture, royal ceremonies, and the Changing of the Guard.\n\nWestminster Abbey is a magnificent Gothic church and UNESCO World Heritage Site, where British monarchs are crowned and many notable figures are buried.\n\nLondon Eye is a giant observation wheel on the South Bank, offering breathtaking panoramic views of London’s skyline and landmarks.\n\nWindsor Castle is the world’s oldest and largest inhabited castle, serving as a royal residence and hosting centuries of British royal history and architecture.",
+  "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?cs=srgb&dl=pexels-pixabay-460672.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Tower of London",
+    "Day 2: Buckingham Palace and Westminster Abbey",
+    "Day 3: British Museum and Covent Garden",
+    "Day 4: London Eye and Southbank",
+    "Day 5: Day trip to Windsor Castle",
+    "Day 6: Departure"
+  ],
+  "places_covered": [
+    "Tower of London",
+    "Buckingham Palace",
+    "Westminster Abbey",
+    "London Eye",
+    "Windsor Castle"
+  ],
+  "language_used": "English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5676"
+  },
+  "title": "Dubai",
+  "price_per_person_rupees": 35000,
+  "days": 4,
+  "description": "Burj Khalifa is the tallest building in the world, soaring to a height of 828 meters. It offers breathtaking views from its observation decks, stunning architecture, and a symbol of modern Dubai’s ambition and innovation.\n\nDubai Mall is one of the world’s largest shopping and entertainment destinations, featuring over 1,200 stores, an indoor aquarium, ice rink, VR park, and a wide variety of dining and leisure options.\n\nDesert Safari is a thrilling adventure into Dubai’s vast desert landscapes, offering dune bashing, camel rides, sandboarding, and traditional Bedouin-style camps with cultural performances and Arabian cuisine.",
+  "image": "https://images.pexels.com/photos/3787839/pexels-photo-3787839.jpeg?cs=srgb&dl=pexels-ivan-siarbolin-1513699-3787839.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Dubai Mall",
+    "Day 2: Burj Khalifa and Fountain show",
+    "Day 3: Desert safari",
+    "Day 4: Departure"
+  ],
+  "places_covered": [
+    "Burj Khalifa",
+    "Dubai Mall",
+    "Desert Safari"
+  ],
+  "language_used": "Arabic, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5677"
+  },
+  "title": "Bangkok",
+  "price_per_person_rupees": 25000,
+  "days": 5,
+  "description": "Grand Palace in Bangkok is a dazzling complex of royal buildings that once served as the residence of Thai kings. It showcases traditional Thai architecture with golden spires, intricate carvings, and the revered Temple of the Emerald Buddha (Wat Phra Kaew).\n\nWat Pho is home to the magnificent Reclining Buddha statue and is considered the birthplace of traditional Thai massage. The temple complex is rich with murals, stupas, and serene courtyards.\n\nFloating Market offers a vibrant cultural experience where vendors sell fresh produce, local snacks, and handicrafts from wooden boats, giving visitors a glimpse into traditional Thai river life.\n\nAyutthaya is a UNESCO World Heritage Site and former capital of the Kingdom of Siam. It features ancient temple ruins, majestic Buddha statues, and historic architecture that reflect Thailand’s glorious past.",
+  "image": "https://images.unsplash.com/photo-1613672803979-a6edfc5a179b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFuZ2tvayUyMHRoYWlsYW5kfGVufDB8fDB8fHww",
+  "plan_per_day": [
+    "Day 1: Arrival and Grand Palace",
+    "Day 2: Wat Pho and floating market",
+    "Day 3: Chatuchak Market and Chinatown",
+    "Day 4: Day trip to Ayutthaya",
+    "Day 5: Departure"
+  ],
+  "places_covered": [
+    "Grand Palace",
+    "Wat Pho",
+    "Floating Market",
+    "Ayutthaya"
+  ],
+  "language_used": "Thai, English"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5678"
+  },
+  "title": "Singapore",
+  "price_per_person_rupees": 30000,
+  "days": 4,
+  "description": "Marina Bay Sands is an architectural marvel and luxury resort known for its unique boat-shaped SkyPark, offering stunning views of the Singapore skyline, a rooftop infinity pool, a casino, and world-class shopping and dining.\n\nGardens by the Bay is a futuristic nature park featuring the stunning Supertree Grove, Cloud Forest, and Flower Dome. It combines horticulture with cutting-edge design, creating an urban oasis that showcases biodiversity and sustainability.\n\nMerlion Park is home to Singapore’s iconic half-lion, half-fish statue, symbolizing the city’s humble origins as a fishing village and its modern growth. It’s a popular photo spot overlooking Marina Bay.\n\nSentosa Island is a resort getaway offering beautiful beaches, adventure parks, luxury hotels, and attractions like Universal Studios Singapore, S.E.A. Aquarium, and more, making it a top family destination.",
+  "image": "https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg?cs=srgb&dl=pexels-timo-volz-837240-1842332.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Marina Bay Sands",
+    "Day 2: Gardens by the Bay and Merlion Park",
+    "Day 3: Sentosa Island and Universal Studios",
+    "Day 4: Departure"
+  ],
+  "places_covered": [
+    "Marina Bay Sands",
+    "Gardens by the Bay",
+    "Merlion Park",
+    "Sentosa Island"
+  ],
+  "language_used": "English, Malay, Mandarin"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c5679"
+  },
+  "title": "Cape Town",
+  "price_per_person_rupees": 35000,
+  "days": 6,
+  "description": "able Mountain is a flat-topped mountain offering breathtaking views of Cape Town and the Atlantic Ocean. Accessible by cable car or hiking, it’s a natural wonder and symbol of the city’s beauty.\n\nV&A Waterfront is a bustling harbor-side destination filled with shops, restaurants, museums, and entertainment. It blends modern attractions with historic charm and offers beautiful views of the ocean and Table Mountain.\n\nRobben Island is a UNESCO World Heritage Site and former prison where Nelson Mandela was held for 18 years. Today, it serves as a powerful symbol of South Africa’s struggle for freedom and equality.\n\nCape Winelands is a picturesque region known for its rolling vineyards, historic wine estates, and charming towns like Stellenbosch and Franschhoek. It’s perfect for wine tasting, gourmet dining, and scenic countryside experiences.",
+  "image": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg",
+  "plan_per_day": [
+    "Day 1: Arrival and V&A Waterfront",
+    "Day 2: Table Mountain and city tour",
+    "Day 3: Cape Winelands",
+    "Day 4: Robben Island",
+    "Day 5: Beaches and nature reserves",
+    "Day 6: Departure"
+  ],
+  "places_covered": [
+    "Table Mountain",
+    "V&A Waterfront",
+    "Robben Island",
+    "Cape Winelands"
+  ],
+  "language_used": "English, Afrikaans"
+},
+{
+  "_id": {
+    "$oid": "6832c32926a4d029356c567a"
+  },
+  "title": "Istanbul",
+  "price_per_person_rupees": 32000,
+  "days": 5,
+  "description": "Hagia Sophia is a magnificent architectural wonder that has served as a cathedral, mosque, and now a mosque-museum. Famous for its massive dome, mosaics, and rich history, it reflects the city’s Byzantine and Ottoman heritage.\n\nBlue Mosque (Sultan Ahmed Mosque) is renowned for its stunning blue İznik tiles, six elegant minarets, and grand courtyard. It remains an active place of worship and a prime example of classical Ottoman architecture.\n\nTopkapi Palace was the opulent residence of Ottoman sultans for centuries. The palace complex includes lavish courtyards, imperial chambers, and sacred relics, offering a glimpse into royal life.\n\nGrand Bazaar is one of the world’s oldest and largest covered markets, bustling with thousands of shops selling carpets, spices, jewelry, ceramics, and more, creating a vibrant shopping experience.\n\nBosphorus is the strait that separates Europe and Asia, offering scenic cruises past historic palaces, mosques, and waterfront neighborhoods, capturing the essence of Istanbul’s unique geographic and cultural charm.",
+  "image": "https://images.pexels.com/photos/2042109/pexels-photo-2042109.jpeg?cs=srgb&dl=pexels-selimdersiniz-2042109.jpg&fm=jpg",
+  "plan_per_day": [
+    "Day 1: Arrival and Sultanahmet area",
+    "Day 2: Hagia Sophia and Blue Mosque",
+    "Day 3: Bosphorus cruise and Grand Bazaar",
+    "Day 4: Topkapi Palace and Spice Market",
+    "Day 5: Departure"
+  ],
+  "places_covered": [
+    "Hagia Sophia",
+    "Blue Mosque",
+    "Topkapi Palace",
+    "Grand Bazaar",
+    "Bosphorus"
+  ],
+  "language_used": "Turkish, English"
+}]
